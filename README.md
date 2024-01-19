@@ -1,4 +1,4 @@
-# Bool Network: An Bitcoin Verification Layer
+# Bool Network: A Bitcoin Verification Layer
 
 ## Introduction
 
